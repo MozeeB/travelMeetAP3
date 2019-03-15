@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">travelMeetAp</string>
+    <string name="harga">Harga:</string>
+    <string name="kecamatan">Kecamatan:</string>
+    <string name="alamat">Alamat:</string>
+    <string name="jam_operational">Jam Operational:</string>
+    <string name="deskripsi">Deskripsi:</string>
+    <string name="lihat_map">Lihat Map</string>
+    <string name="pesan_tiket">Pesan Tiket</string>
+    <string name="masukkan_jumlah_tiket">Masukkan jumlah tiket</string>
+    <string name="beli_tiket">Beli Tiket</string>
+    <string name="nomor_telepon">Nomor telepon:</string>
+    <string name="title_map">Map</string>
+    <string name="edtil_lokasi">Ubah Tempat</string>
+    <string name="delete_lokasi">Hapus Tempat</string>
+    <string name="masukkan_nama_tempat">Masukkan nama tempat</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="title_list">List</string>
+    <string name="cari_nama_tempat">Cari</string>
+
+    <string name="error">Gagal</string>
+    <string name="tidak_ada_data">Tidak ada data</string>
+    <string name="error_msg_unknown">Terjadi kesalahan tak terduga</string>
+    <string name="error_msg_no_internet">Tidak ada koneksi internet</string>
+    <string name="error_msg_timeout">Server butuh waktu terlalu lama untuk merespons</string>
+</resources>
